@@ -17,7 +17,7 @@ Optika is a web application and a device that with the use of a face recognition
 <h3 align="left">Main functionalities:</h3>
 
 - Live video
-- Ingreso de personas a ser reconocidas por el dispositivo
+- Entry of people to be recognized by the device
 - History of detections
 - Facial recognition 
 - Email notifications
